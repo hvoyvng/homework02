@@ -4,6 +4,7 @@
   bottom: 0;
   width: 100%;
   text-align: center;
+  background-color: #80A4ED;
 }
 
 section {
@@ -19,4 +20,5 @@ section {
 body {
   font-family: 'Roboto', sans-serif;
   width: 100%;
+  background-color: #BCD3F2;
 }
